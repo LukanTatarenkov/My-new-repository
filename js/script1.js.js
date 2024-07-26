@@ -1,2 +1,8 @@
-"use strict"
-alert('I`am - JavaScript');
+
+let name, admin;
+
+name = "Ivan";
+
+admin = name;
+
+alert(admin);
