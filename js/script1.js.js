@@ -1,4 +1,3 @@
+let age = String("123");
 
-let name = 'Ivan';
-
-alert(`Hello, ${name}`);
+alert(age);
